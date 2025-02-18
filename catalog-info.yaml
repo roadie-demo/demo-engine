@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo-engine
+  title: demo-engine
+  description: demo engine
+  annotations:
+    github.com/project-slug: demo-engine
+    backstage.io/techdocs-ref: dir:. 
+    
+    
+spec:
+  type: library
+  owner: group:roadie-demo/engineering
+  lifecycle: experimental
