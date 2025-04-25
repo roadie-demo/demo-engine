@@ -5,7 +5,7 @@ metadata:
   title: demo-engine
   description: demo engine
   annotations:
-    github.com/project-slug: demo-engine
+    github.com/project-slug: roadie-demo/demo-engine
     backstage.io/techdocs-ref: dir:. 
     
     
